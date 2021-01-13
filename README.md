@@ -1,12 +1,13 @@
 # tg-bot
 
 ## Usage
-First:
+
+First install:
 ```bash
 npm install
 ```
 
-Then:
+Then start the application:
 
 ```bash
 node app.js
